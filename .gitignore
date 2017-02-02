@@ -1,0 +1,11 @@
+*.sublime-project
+*.sublime-settings
+*.sublime-workspace
+.DS_Store
+.idea
+**/.DS_Store
+**/.manifest
+config
+metadata
+scripts
+CI
